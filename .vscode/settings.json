@@ -24,5 +24,5 @@
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify",
-   "python.pythonPath": "todo/templates/todo/add_item.html"
+   "python.pythonPath": "/home/gitpod/.pyenv/versions/3.8.12/bin/python"
 }
